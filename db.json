@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fname": "Rishabh",
+      "lname": "Dev",
+      "email": "rishabhd921@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "gender": "Male",
+      "city": "Muzaffarnagar",
+      "pincode": "251002",
+      "file": null,
+      "id": 1
+    },
+    {
+      "fname": "Gaurvi",
+      "lname": "Mallan",
+      "email": "gaurvimallan12@gamil.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "gender": "Female",
+      "city": "Muzaffarnagar",
+      "pincode": "251002",
+      "file": null,
+      "id": 2
+    }
+  ]
+}
